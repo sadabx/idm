@@ -19,3 +19,7 @@
 ## 3. If Lifetime Activation Doesn’t Work
 - Press **`2`** instead. This will reset your IDM trial period.  
 - You can use this option **before or after** your trial expires.  
+
+---
+
+> 💡 Disable the IDM update check, download the **something.reg** and run the file, and you're all set.
