@@ -22,4 +22,4 @@
 
 ---
 
-> 💡 Disable the IDM update check, download the **something.reg** and run the file, and you're all set.
+> 💡 Disable the IDM update check, download the **“something.reg”** and run the file, and you're all set.
